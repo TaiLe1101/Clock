@@ -61,3 +61,8 @@ html {
     padding: 4px;
     font-weight: bold;
 }
+.music {
+    margin: 12px;
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    height: 25px;
+}
